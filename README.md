@@ -15,6 +15,28 @@ This project is set up and ready to use. All you need to do is install the depen
 
 1. **Clone the Repository**
 
-   ```bash
-   git clone https://github.com/your-username/your-repo.git
-   cd your-repo
+2. **Install Dependencies**
+
+Simply run:
+
+```npm install```
+Or if you prefer Yarn:
+
+```yarn install```
+Or even bun 
+
+``bun install```
+Run the Development Server
+
+Once the installation is complete, start your development server with:
+
+```npm run dev```
+Or with Yarn:
+
+```yarn dev```
+Or with bun
+```bun run dev```
+
+3.**Open in Your Browser**
+
+Navigate to the URL provided in your terminal (usually http://localhost:3000) and start exploring your new project!
