@@ -25,7 +25,7 @@ Or if you prefer Yarn:
 ```yarn install```
 Or even bun 
 
-``bun install```
+```bun install```
 Run the Development Server
 
 Once the installation is complete, start your development server with:
